@@ -1,0 +1,16 @@
+ul{
+    dispaly:inline;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 50px;
+    text-align: end;
+    font-size: 25px;
+    color:black
+
+}
+.ki{
+    background-color: rgb(185, 155, 108);
+    padding:18px;
+}
